@@ -7,11 +7,11 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image:  url("https://github.com/vasantapagadala/To-Do-List-/issues/1#issue-2696250962");
+    background-image:  url("https://github.com/vasantapagadala/To-Do-List/issues/1");
     background-color: #f4f4f9;
-    background-size: cover; /* Ensures the image covers the entire viewport */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,7 +66,7 @@ ul {
 
 li {
     display: flex;
-    justify-content: space-between; /* Align task text and button group */
+    justify-content: space-between; 
     align-items: center;
     padding: 8px;
     margin: 5px 0;
@@ -83,7 +83,7 @@ li .task-text {
 /* Button group container */
 li .button-group {
     display: flex;
-    gap: 5px; /* Ensure no space between Edit and Delete */
+    gap: 5px; 
 }
 
 /* Individual button styles */
