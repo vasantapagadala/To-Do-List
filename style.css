@@ -7,8 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image:  bg.jpg;
-    background-color: #f4f4f9;
+    background-image: url('bg.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
